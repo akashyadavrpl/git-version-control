@@ -33,3 +33,5 @@ git log - -since = 2022-07-28 (date in yy-mm-dd formate)
 git diff(before add .)
 
 git diff - -staged(compare files content after staging)
+
+git rm "fileName"
