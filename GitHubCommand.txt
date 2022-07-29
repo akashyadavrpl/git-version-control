@@ -41,3 +41,5 @@ git checkout --"file name"
 git restore --staged < file > ..." to unstage
 
 
+git commit --amend -m "message"
+(amd is going to change has but last hash)
