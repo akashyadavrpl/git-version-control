@@ -83,5 +83,14 @@ DS_Store
 Adding exception in .gitignore file
 
 
+when we commit in project after that we are going to files to ingnore in .gitignore 
+then git track into this for this we have to chached 
+git rm --cached hello.php 
+
+
+git dosn't keep track of empty folder 
+so we can creat hidden file in uplod folder
+
+
 
 
