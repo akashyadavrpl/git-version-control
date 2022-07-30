@@ -132,5 +132,8 @@ git branch -d "branch name"
 
 git branch -D "forcfully delete branch"
 
+git merge "branch name"
+
+
 
 
