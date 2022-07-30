@@ -119,7 +119,9 @@ git checkout "branch name"
 
 git checkout -b "new branch name"
 
+git log --graph --oneline --decorate -all
 
+git checkout -- "file name"
 
 
 
