@@ -111,6 +111,14 @@ git ls-tree HEAD
 git ls-tree master
 git ls-tree HEAD~5
 
+branching
+
+git branch
+
+git checkout "branch name"
+
+git checkout -b "new branch name"
+
 
 
 
