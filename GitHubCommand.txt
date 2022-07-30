@@ -124,4 +124,9 @@ git log --graph --oneline --decorate -all
 git checkout -- "file name"
 
 
+git diff "branch name".."branch name"
+
+git branch -m "branchname" "renamed branch name"
+
+
 
