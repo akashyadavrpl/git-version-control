@@ -45,4 +45,16 @@ git commit --amend -m "message"
 (amd is going to change has but last hash)
 
 git checkout "staging area string SH1 " --"fileName"
+(Genally we are doing this for returnning the last or whather commit you want to 
+go for "where our code working perfectly fine")
+
+AFTER THIS 
+
+git reset HEAD "FileName" 
+
+
+
+
+
+
 
