@@ -29,6 +29,19 @@ git log -n 2 ("Number of commits you want to see")
 git log --author="akashyada" ("name of the other all commits")
 
 git log --since = 2022-07-28 (date in yy-mm-dd formate)
+git log --untill=2022-07-12
+
+git log --since="1 week ago"
+
+git log --grap="ignore"
+
+git log --format=fuller
+
+
+git log --oneline
+git log --oneline -6
+
+
 
 git diff (before add .)
 
@@ -90,6 +103,15 @@ git rm --cached hello.php
 
 git dosn't keep track of empty folder 
 so we can creat hidden file in uplod folder
+
+
+git ls-tree
+git ls-tree HEAD
+
+git ls-tree master
+git ls-tree HEAD~5
+
+
 
 
 
