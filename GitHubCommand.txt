@@ -128,5 +128,9 @@ git diff "branch name".."branch name"
 
 git branch -m "branchname" "renamed branch name"
 
+git branch -d "branch name"
+
+git branch -D "forcfully delete branch"
+
 
 
