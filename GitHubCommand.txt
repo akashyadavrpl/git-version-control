@@ -43,3 +43,6 @@ git restore --staged < file > ..." to unstage
 
 git commit --amend -m "message"
 (amd is going to change has but last hash)
+
+git checkout "staging area string SH1 " --"fileName"
+
