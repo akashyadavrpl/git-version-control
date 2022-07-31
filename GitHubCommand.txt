@@ -134,6 +134,14 @@ git branch -D "forcfully delete branch"
 
 git merge "branch name"
 
+git stash save "massage"
+
+git stash show
+git stash show stash@{0}
+git stash show -p stash@{0}
+
+git stash pop stash@{0} => ACT LIKE A CUT THE DATA
+git stash apply
 
 
 
