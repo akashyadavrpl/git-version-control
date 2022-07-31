@@ -143,5 +143,10 @@ git stash show -p stash@{0}
 git stash pop stash@{0} => ACT LIKE A CUT THE DATA
 git stash apply
 
+git stash drop stash@{0}
+
+git stash clear
+
+
 
 
