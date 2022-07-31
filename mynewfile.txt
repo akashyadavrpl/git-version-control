@@ -10,3 +10,5 @@ i am working on x fun
 i am wotking on y funtion
 
 
+
+hello dumb guys i am learning git
