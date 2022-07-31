@@ -1,2 +1,7 @@
 {
+  "editor.formatOnSave": true,
+  "code-runner.saveFileBeforeRun": true,
+  "files.autoSave": "onWindowChange",
+  "testing.saveBeforeTest": false,
+  "workbench.editor.closeOnFileDelete": false
 }

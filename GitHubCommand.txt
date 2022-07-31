@@ -148,5 +148,14 @@ git stash drop stash@{0}
 git stash clear
 
 
+git remote add "Any name"(origin) master
+git push origin master
 
+git clone "link"
+
+git push (new Worker)
+
+git getch (old worker)
+
+git push (old worker)
 
