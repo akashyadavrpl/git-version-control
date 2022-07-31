@@ -155,7 +155,7 @@ git clone "link"
 
 git push (new Worker)
 
-git getch (old worker)
+git fetch (old worker)
 
 git push (old worker)
 
