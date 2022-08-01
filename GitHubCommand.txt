@@ -202,10 +202,10 @@ git push --tags
 git push origin ticket321
 
 
+Always use SHA value instant of doing operaction on commits or tags 
 
 
-
-
+THANK YOU
 
 
 
