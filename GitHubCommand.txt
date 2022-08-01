@@ -189,6 +189,21 @@ git tag -l -n
 git tag -ln 
 
 
+git tag -d "ticket321"
+for deleting 
+
+IMP Tags are not automectilly been pushed in any online ervice we 
+tags push automectilly is not allowed
+tags clone automectilly comes 
+
+push tags online 
+
+git push --tags 
+git push origin ticket321
+
+
+
+
 
 
 
