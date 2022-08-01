@@ -151,13 +151,50 @@ git stash clear
 git remote add "Any name"(origin) master
 git push origin master
 
-git clone "link"
 
-git push (new Worker)
+git clone link "name folder" (new dev)
 
-git fetch (old worker)
+have some work (old user)
 
-git push (old worker)
+git push (old dev)
+
+git fetch (new dev)
+
+git merge origin/master (new dev)
+
+now up to date with remote origin 
+
+hav some work 
+
+git push (new dev )
+
+
+
+
+
+fork project with any project 
+
+have some work and push it with new request with merging that project 
+
+make contributor for parrellar working 
+
+
+git tag ticket321 "any sha"
+
+git tag -a ticket321 -m "resolved ticket321 in this commit" "any sha"
+
+git tag --list
+
+git tag -l -n 
+git tag -ln 
+
+
+
+
+
+
+
+
 
 
 
